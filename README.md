@@ -1,5 +1,11 @@
 # Restuarant-website
 
+The project is developed to provide users with a website that helps in Food related navigation using Full Stack Technologies. The Restaurant home page consists of details related to the various aspects like the address, glory, and opening/closing times of the restaurant along with additional features like table registration, feedback, menu card, log in and signup. A user can log in/sign-up and go through the menu to know the cuisine, book a table in advance and give feedback to the restaurant
+
+The Login/Signup Pages is designed using Databases ,Feedback using the Javascript , Table registration using PHP , Home page and Menu using HTML,CSS,Bootstrap
+
+This project is done for educational purpose only
+
 ![image](https://github.com/sushmakoteswari/Restuarant-website/assets/93698513/67f6d6b0-7ba5-4f89-972e-b917a32126fa)
 ![image](https://github.com/sushmakoteswari/Restuarant-website/assets/93698513/d5e0cec6-2eed-4db8-a44f-0aaafcc6f43b)
 ![image](https://github.com/sushmakoteswari/Restuarant-website/assets/93698513/19996d8d-6fe6-4313-8ccc-f6aaa5f9ca0f)
